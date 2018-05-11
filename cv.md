@@ -1,37 +1,37 @@
-#### Curriculum Vitae
+# Selected Curriculum Vitae
 
-### Education 
+## Education 
 
-## PhD with a Concentration in Biblical Interpretation from the University of Denver (DU) and Iliff School of Theology Joint Doctoral program in Religious and Theological Studies (May 2015)
+### PhD with a Concentration in Biblical Interpretation from the University of Denver (DU) and Iliff School of Theology Joint Doctoral program in Religious and Theological Studies (May 2015)
 
-# Dissertation: “Imagining the Scandal of the Cross with a Graphic/Novel Reading”
+##### Dissertation: “Imagining the Scandal of the Cross with a Graphic/Novel Reading”
  This work places several New Testament passages that interpret the Cross from Galatians, 1 Corinthians, and Mark’s Gospel into dialogue with comics and graphic novel portrayals of the life and death of Jesus. The comics texts present the weirdness and scandal of the Cross in a form that helps illuminate where these same elements are operative in the New Testament. 	Committee: Gregory Robbins, Pamela Eisenbaum, Jeffrey Mahan, Rafael Fajardo
 
-# Areas of Teaching Competency  
+#### Areas of Teaching Competency  
 Biblical Literacy for Specialists and Non-specialists, Introduction to New Testament, Introduction to Christianity, Jesus of the Gospels and Today, Women and/in the Bible and Religion, Religion and Popular Culture, Religion and Comics, Religion and Film, Writing for Theological and Exegetical Study, Introduction to Hebrew Bible, World Religions 
 
-# Areas of Specialization 
+#### Areas of Specialization 
 Religion and Bible in Culture, Gospel of Mark, Pauline Studies, Greco-Roman Cultures, Formation of the Biblical Canon, Religious Uses of Scripture, Gender and Bible, Cultural and Literary Theory
 
-# Comprehensive Exams
+#### Comprehensive Exams
 Gospel of Mark Text, Translation, and Exegesis
 Formation and Use of the Canon
 Cultural Theory 
 
-# Reading Languages
+#### Reading Languages
 Ancient: Koine Greek, Biblical Hebrew, Sahidic Coptic
 Modern: French, German, Spanish
 
-## MA in Religious Studies from Iliff School of Theology (June 2009)
+### MA in Religious Studies from Iliff School of Theology (June 2009)
 With Distinction, Concentration in Biblical Studies
 
-## BA in English from Centenary College of Louisiana (May 2005)
+### BA in English from Centenary College of Louisiana (May 2005)
 
 Summa Cum Laude 
 English Major with Departmental Honors, Spanish Minor
 Officially Endorsed by the Church Careers Institute
 
-### Awards Recieved
+## Awards Recieved
 The Rollin Everett Smith Award for Outstanding Service to Iliff by a Staff Member for 2018
 	Established by Snoopy and Reverand Alta Smith in memory of Snoopy’s brother, this award recognizes a meber of the staff of the Iliff School of Theology who best exemplifies the Iliff Spirit through outstanding dedication and service to the Iliff community
 
@@ -51,7 +51,7 @@ Minnie Hall Brown Award for High Moral Character 2005 by the Church Careers Inst
 
 Michael Flachmann 2005 Convention Presentation Prize in Literature for the essay “An Education:  Changing Little Tree from Humanitarian to Klansman” at the Alpha Chi Honor Society National Convention
 
-###Teaching
+## Teaching
 As Assistant Professor of Religious Studies for Morningside College
 Introduction to Religion 
 	(Fall 2018/ two sections)
@@ -78,8 +78,8 @@ Jesus on the Silver Screen
 Studies in Popular Culture: Myth, Religion, and Story 
 (Spring 2013, as teaching assistant to Dr. Jeffrey Mahan)
 Technology Competencies used for Teaching and Academic Service
-Editor and primary content developer of library.iliff.edu, the Ira J. Taylor library website through a major, ground-up site build (September 2015 to Present)
-Editor and contributing content developer for the www.iliff.edu, the Iliff School of Theology website through a major, ground-up site redesign (March 2016 to Present)
+Editor and primary content developer of library.iliff.edu, the Ira J. Taylor library website through a major, ground-up site build (September 2015 to June 2018)
+Editor and contributing content developer for the www.iliff.edu, the Iliff School of Theology website through a major, ground-up site redesign (March 2016 to June 2018)
 Digital Pedagogy Institute, participant in professional development series of workshops expanding skills with Sean Michael Morris (Fall 2016 through Spring 2017)
 
 Course Platforms: Canvas, Moodle, Blackboard, Wikispaces Classroom
@@ -92,7 +92,7 @@ Audio Editing: Adobe Audition
 Social Networking for class and with students: Facebook, including pages and groups; Twitter; Google+; Academia.edu; Instagram
 Online Tools: Slack, Doodle, Diigo, Forvo, Evernote, Sugarsync, Dropbox
 
-Professional Development/ Continuing Education
+## Professional Development/ Continuing Education
 
 Pre-Conference Workshop: Wabash Center Workshop for Graduate Students
 in conjunction with the AAR/SBL Annual Meeting, Chicago, IL (November 16, 2012)
