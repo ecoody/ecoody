@@ -2,7 +2,7 @@
 
 ### Education 
 
-##PhD with a Concentration in Biblical Interpretation from the University of Denver (DU) and Iliff School of Theology Joint Doctoral program in Religious and Theological Studies (May 2015)
+## PhD with a Concentration in Biblical Interpretation from the University of Denver (DU) and Iliff School of Theology Joint Doctoral program in Religious and Theological Studies (May 2015)
 
 # Dissertation: “Imagining the Scandal of the Cross with a Graphic/Novel Reading”
  This work places several New Testament passages that interpret the Cross from Galatians, 1 Corinthians, and Mark’s Gospel into dialogue with comics and graphic novel portrayals of the life and death of Jesus. The comics texts present the weirdness and scandal of the Cross in a form that helps illuminate where these same elements are operative in the New Testament. 	Committee: Gregory Robbins, Pamela Eisenbaum, Jeffrey Mahan, Rafael Fajardo
